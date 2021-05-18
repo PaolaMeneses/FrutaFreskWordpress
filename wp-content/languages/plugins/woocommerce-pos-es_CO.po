@@ -1,0 +1,1060 @@
+# Translation of Plugins - WooCommerce POS - Stable (latest release) in Spanish (Colombia)
+# This file is distributed under the same license as the Plugins - WooCommerce POS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-25 22:53:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_CO\n"
+"Project-Id-Version: Plugins - WooCommerce POS - Stable (latest release)\n"
+
+#: includes/apiv2/class-wc-pos-orders.php:72
+msgid "Payment Details"
+msgstr "Detalles del pago"
+
+#. Author URI of the plugin
+msgid "http://woopos.com.au"
+msgstr "https://woopos.com.au"
+
+#. Author of the plugin
+msgid "kilbot"
+msgstr "kilbot"
+
+#. Description of the plugin
+msgid "A simple front-end for taking WooCommerce orders at the Point of Sale. Requires <a href=\"http://wordpress.org/plugins/woocommerce/\">WooCommerce</a>."
+msgstr "Una sencilla interfaz para llevar los pedidos de WooCommerce al punto de venta. Necesita <a href=\"http://es-co.wordpress.org/plugins/woocommerce/\">WooCommerce</a>."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woocommerce-pos/"
+msgstr "https://es-co.wordpress.org/plugins/woocommerce-pos/"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce POS"
+msgstr "WooCommerce POS"
+
+#: includes/views/tmpl-pagination.php:3
+msgid "%s in queue"
+msgstr "%s en espera"
+
+#: includes/views/tmpl-pagination.php:2
+msgid "Showing %s of %s"
+msgstr "Mostrando %s de %s"
+
+#. translators: wordpress
+#: includes/views/tmpl-header.php:16
+msgid "Log Out"
+msgstr "Salir"
+
+#. translators: wordpress
+#: includes/views/tmpl-header.php:6
+msgid "Menu"
+msgstr "Menú"
+
+#: includes/views/template.php:8
+msgid "Point of Sale"
+msgstr "Punto de venta"
+
+#: includes/views/support/tmpl-status.php:31
+msgid "Local Storage"
+msgstr "Almacenamiento local"
+
+#: includes/views/support/tmpl-form.php:28
+msgid "Append POS system report"
+msgstr "Adjuntar el informe de sistema del TPV"
+
+#: includes/views/support/tmpl-form.php:21
+msgid "Describe your problem here ..."
+msgstr "Describe aquí tu problema…"
+
+#: includes/views/support/tmpl-form.php:20
+msgid "Message"
+msgstr "Mensaje"
+
+#. translators: wordpress
+#: includes/views/support/tmpl-form.php:6
+msgid "Name"
+msgstr "Nombre"
+
+#. translators: woocommerce
+#: includes/views/print/tmpl-receipt.php:148
+msgid "Telephone"
+msgstr "Teléfono"
+
+#: includes/views/print/tmpl-receipt.php:137
+msgid "Payment Method"
+msgstr "Método de pago"
+
+#: includes/apiv2/class-wc-pos-orders.php:55
+#: includes/views/print/tmpl-receipt.php:132
+msgid "Cashier"
+msgstr "Cajero"
+
+#: includes/views/print/tmpl-receipt.php:127
+msgid "Order Date"
+msgstr "Fecha del pedido"
+
+#: includes/views/print/tmpl-receipt.php:123
+msgid "Order Number"
+msgstr "Número del pedido"
+
+#: includes/views/print/tmpl-receipt.php:118
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+#: includes/views/print/tmpl-receipt.php:115
+msgid "Billing Address"
+msgstr "Dirección de facturación"
+
+#. translators: woocommerce
+#: includes/views/pos/products/tmpl-product.php:37
+msgid "%s in stock"
+msgstr "%s disponibles"
+
+#. translators: woocommerce
+#: includes/views/pos/products/tmpl-product.php:23
+msgid "Expand"
+msgstr "Ampliar"
+
+#. translators: woocommerce
+#: includes/views/pos/products/tmpl-filter.php:7
+msgid "Scan Barcode"
+msgstr "Escanear código de barras"
+
+#. translators: woocommerce
+#: includes/views/pos/products/tmpl-filter.php:6
+msgid "Search products"
+msgstr "Buscar productos"
+
+#. translators: woocommerce
+#: includes/views/pos/receipt/tmpl-totals.php:55
+#: includes/views/pos/cart/tmpl-totals.php:39
+#: includes/views/print/tmpl-receipt.php:241
+msgid "Order total"
+msgstr "Total del pedido"
+
+#: includes/views/pos/receipt/tmpl-totals.php:29
+#: includes/views/pos/receipt/tmpl-totals.php:39
+#: includes/views/pos/cart/tmpl-totals.php:19
+#: includes/views/pos/cart/tmpl-totals.php:30
+#: includes/views/print/tmpl-receipt.php:215
+#: includes/views/print/tmpl-receipt.php:225
+msgctxt "abbreviation for includes (tax)"
+msgid "incl."
+msgstr "incl."
+
+#. translators: woocommerce
+#: includes/views/pos/receipt/tmpl-totals.php:2
+#: includes/views/pos/cart/tmpl-totals.php:2
+#: includes/views/print/tmpl-receipt.php:188
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#. translators: woocommerce
+#: includes/views/pos/receipt/tmpl-panel.php:6
+#: includes/views/pos/cart/tmpl-panel.php:5
+msgid "Total"
+msgstr "Total"
+
+#. translators: woocommerce
+#: includes/views/pos/receipt/tmpl-panel.php:4
+#: includes/views/pos/cart/tmpl-panel.php:3
+#: includes/views/print/tmpl-receipt.php:156
+msgid "Product"
+msgstr "Producto"
+
+#. translators: woocommerce
+#: includes/views/pos/receipt/tmpl-panel.php:3
+#: includes/views/pos/cart/tmpl-panel.php:2
+#: includes/views/print/tmpl-receipt.php:157
+msgctxt "Abbreviation of Quantity"
+msgid "Qty"
+msgstr "Cantidad"
+
+#. translators: woocommerce
+#: includes/views/pos/receipt/tmpl-panel.php:5
+#: includes/views/pos/cart/tmpl-item.php:8
+#: includes/views/pos/cart/tmpl-item.php:19
+#: includes/views/pos/cart/tmpl-panel.php:4
+#: includes/views/print/tmpl-receipt.php:158
+msgid "Price"
+msgstr "Precio"
+
+#. translators: woocommerce
+#: includes/views/pos/cart/tmpl-item.php:2
+msgid "Quantity"
+msgstr "Cantidad"
+
+#. translators: woocommerce
+#: includes/views/pos/cart/tmpl-item-drawer.php:32
+msgid "Add&nbsp;meta"
+msgstr "Añadir&nbsp;metadato"
+
+#. translators: woocommerce
+#: includes/views/pos/cart/tmpl-item-drawer.php:21
+msgid "Taxable"
+msgstr "Sujeto a impuestos"
+
+#. translators: woocommerce
+#: includes/views/pos/cart/tmpl-item-drawer.php:13
+msgid "Shipping Method"
+msgstr "Método de envío"
+
+#. translators: woocommerce
+#: includes/views/pos/cart/tmpl-item-drawer.php:3
+#: includes/views/pos/cart/tmpl-item-drawer.php:5
+msgid "Regular price"
+msgstr "Precio normal"
+
+#. translators: wordpress
+#: includes/views/pos/cart/tmpl-customer.php:5
+msgid "Remove"
+msgstr "Quitar"
+
+#. translators: woocommerce
+#: includes/views/pos/cart/tmpl-customer.php:2
+msgid "Search customers"
+msgstr "Buscar clientes"
+
+#: includes/views/modals/browser.php:7
+msgid "If you believe you have received this message in error please contact support via <a href=\"mailto:support@wcpos.com\">support@wcpos.com</a>"
+msgstr "Si crees que has recibido este mensaje por error, por favor contacta con el equipo de soporte en <a href=\"mailto:support@wcpos.com\">support@wcpos.com</a>"
+
+#: includes/views/modals/browser.php:3
+msgid "If possible, please <a href=\"http://browsehappy.com/\">update your browser</a>, we recommend either Chrome or Firefox."
+msgstr "Si es posible, por favor <a href=\"http://browsehappy.com/\">actualiza tu navegador</a>. Recomendamos que uses Chrome o Firefox."
+
+#: includes/views/modals/browser.php:2
+msgid "Sorry, it seems your browser is not supported by WooCommerce POS. "
+msgstr "Lo siento, parece que tu navegador no es compatible con WooCommerce POS. "
+
+#. translators: wordpress
+#: includes/products/views/post-metabox-visibility-select.php:23
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. translators: wordpress
+#: includes/products/views/post-metabox-visibility-select.php:22
+msgid "OK"
+msgstr "Aceptar"
+
+#. translators: wordpress
+#: includes/products/views/post-metabox-visibility-select.php:13
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/products/views/quick-edit-visibility-select.php:14
+#: includes/products/views/post-metabox-visibility-select.php:11
+msgid "POS visibility"
+msgstr "Visibilidad del TPV"
+
+#: includes/products/class-wc-pos-visibility.php:25
+#: includes/products/class-wc-pos-visibility.php:88
+msgid "Online Only"
+msgstr "Solo online"
+
+#: includes/products/class-wc-pos-visibility.php:24
+#: includes/products/class-wc-pos-visibility.php:87
+msgid "POS Only"
+msgstr "Solo TPV"
+
+#: includes/products/class-wc-pos-visibility.php:23
+msgid "POS & Online"
+msgstr "TPV y online"
+
+#: includes/gateways/class-wc-pos-cash.php:52
+#: includes/gateways/class-wc-pos-cash.php:55
+#: includes/gateways/class-wc-pos-cash.php:91
+#: includes/views/print/tmpl-receipt.php:246
+msgid "Amount Tendered"
+msgstr "Cantidad entregada"
+
+#: includes/gateways/class-wc-pos-cash.php:20
+msgid "Cash"
+msgstr "Efectivo"
+
+#: includes/gateways/class-wc-pos-card.php:52
+#: includes/gateways/class-wc-pos-card.php:55
+#: includes/gateways/class-wc-pos-card.php:84
+#: includes/gateways/class-wc-pos-card.php:118
+msgid "Cashback"
+msgstr "Cambio"
+
+#: includes/gateways/class-wc-pos-card.php:20
+msgid "Card"
+msgstr "Tarjeta"
+
+#. translators: wordpress
+#: includes/class-wc-pos-template.php:102
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#. translators: woocommerce
+#: includes/class-wc-pos-tax.php:20
+msgid "Standard"
+msgstr "Estándar"
+
+#: includes/class-wc-pos-status.php:150
+msgid "Enable permalinks"
+msgstr "Activar enlaces permanentes"
+
+#: includes/class-wc-pos-status.php:146
+msgid "<strong>WooCommerce REST API</strong> requires <em>pretty</em> permalinks to work correctly"
+msgstr "La <strong>API REST de WooCommerce</strong> necesita enlaces permanentes <em>bonitos</em> para funcionar correctamente"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-status.php:131
+msgid "Enable the REST API"
+msgstr "Activar la API REST"
+
+#: includes/class-wc-pos-status.php:126
+msgid "Access to the REST API is required"
+msgstr "Se necesita acceso a la API REST"
+
+#: includes/class-wc-pos-status.php:89
+msgid "API is active"
+msgstr "La API está activa"
+
+#: includes/class-wc-pos-status.php:88
+msgid "WC REST API"
+msgstr "API REST de WC"
+
+#: includes/class-wc-pos-status.php:67
+msgid "PHP >= %s required"
+msgstr "Necesita PHP >= %s"
+
+#: includes/class-wc-pos-status.php:60
+msgid "PHP Version"
+msgstr "Versión de PHP"
+
+#. translators: wordpress
+#: includes/class-wc-pos-status.php:40 includes/class-wc-pos-status.php:72
+msgid "Update"
+msgstr "Actualizar"
+
+#: includes/class-wc-pos-status.php:35
+msgid "WooCommerce >= %s required"
+msgstr "Necesita WooCommerce >= %s"
+
+#: includes/class-wc-pos-status.php:28
+msgid "WC Version"
+msgstr "Versión de WC"
+
+#: includes/class-wc-pos-settings.php:223
+msgid "Settings error"
+msgstr "Error en los ajustes"
+
+#: includes/class-wc-pos-settings.php:186
+msgid "No handler found for %s settings"
+msgstr "No se ha encontrado el controlador para los ajustes de %s"
+
+#: includes/class-wc-pos-settings.php:168
+msgid "There is no settings id"
+msgstr "No hay ningún identificador de ajustes"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-params.php:262
+msgid "Support"
+msgstr "Compatibilidad"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-params.php:219
+msgid "Other"
+msgstr "Otros"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-params.php:208
+msgid "N/A"
+msgstr "N/D"
+
+#. translators: woocommerce
+#: includes/admin/class-wc-pos-orders.php:208
+#: includes/class-wc-pos-params.php:163
+msgid "Guest"
+msgstr "Invitado"
+
+#: includes/class-wc-pos-params.php:85
+msgctxt "Product tab: 'On Sale' products"
+msgid "On Sale"
+msgstr "Rebajados"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-params.php:81
+msgid "Featured"
+msgstr "Destacados"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-params.php:76
+msgid "All"
+msgstr "Todos"
+
+#: includes/class-wc-pos-i18n.php:404
+msgctxt "eg: 23 records"
+msgid "record |||| records"
+msgstr "registro |||| registros"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:401
+msgid "Customer not found"
+msgstr "Cliente no encontrado"
+
+#: includes/class-wc-pos-i18n.php:399
+msgid "No payment gateways enabled."
+msgstr "No hay pasarelas de pago activas."
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:398
+msgid "Your cart is currently empty."
+msgstr "Tu carrito está vacío en estos momentos."
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:396
+msgid "No products found"
+msgstr "Ningún producto encontrado"
+
+#: includes/class-wc-pos-i18n.php:394
+msgid "Unable to use RESTful HTTP methods"
+msgstr "No ha sido posible usar los métodos HTTP RESTful"
+
+#: includes/class-wc-pos-i18n.php:393
+msgid "Your browser is not supported!"
+msgstr "¡Tu navegador no es compatible!"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:392
+msgid "Your changes have been saved."
+msgstr "Tus cambios se han guardado."
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:388
+msgid "Sorry, there has been an error."
+msgstr "Se ha producido un error."
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:386
+msgid "Choose an option"
+msgstr "Selecciona una opción"
+
+#: includes/class-wc-pos-i18n.php:382
+msgid "Enable legacy server support"
+msgstr "Activar soporte para servidores antiguos"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:381
+msgid "Close all"
+msgstr "Cerrar todo"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:379
+msgid "Expand all"
+msgstr "Ampliar todo"
+
+#: includes/class-wc-pos-i18n.php:377
+msgid "Void"
+msgstr "Vaciar"
+
+#: includes/class-wc-pos-i18n.php:374
+msgid "Send"
+msgstr "Enviar"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:373
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: includes/class-wc-pos-i18n.php:371
+msgid "Return to Sale"
+msgstr "Volver a la venta"
+
+#: includes/class-wc-pos-i18n.php:370
+msgctxt "Numpad return key"
+msgid "return"
+msgstr "enter"
+
+#: includes/class-wc-pos-i18n.php:369
+msgctxt "restore default settings"
+msgid "Restore defaults"
+msgstr "Restablecer valores por defecto"
+
+#. translators: wordpress
+#: includes/class-wc-pos-i18n.php:368
+msgid "Refresh"
+msgstr "Refrescar"
+
+#: includes/class-wc-pos-i18n.php:366
+msgid "Process Payment"
+msgstr "Finalizar pago"
+
+#. translators: wordpress
+#: includes/class-wc-pos-i18n.php:365
+msgid "Print"
+msgstr "Imprimir"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:363
+msgid "Note"
+msgstr "Nota"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:361
+msgid "New Order"
+msgstr "Nuevo pedido"
+
+#. translators: wordpress
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:357 includes/views/support/tmpl-form.php:16
+#: includes/views/print/tmpl-receipt.php:142
+msgid "Email"
+msgstr "Enviar correo"
+
+#: includes/class-wc-pos-i18n.php:355
+#: includes/views/pos/receipt/tmpl-totals.php:7
+#: includes/views/pos/receipt/tmpl-totals.php:49
+#: includes/views/pos/cart/tmpl-totals.php:8
+#: includes/views/print/tmpl-receipt.php:193
+#: includes/views/print/tmpl-receipt.php:235
+msgid "Discount"
+msgstr "Descuento"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:354
+msgid "Coupon"
+msgstr "Cupón"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:352
+#: includes/views/pos/products/tmpl-product.php:24
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/class-wc-pos-i18n.php:350
+msgctxt "system status: delete local records"
+msgid "Clear"
+msgstr "Limpiar"
+
+#: includes/class-wc-pos-i18n.php:343
+msgid "Support Form"
+msgstr "Formulario de soporte"
+
+#: includes/class-wc-pos-i18n.php:342
+#: includes/gateways/class-wc-pos-cash.php:93
+#: includes/views/print/tmpl-receipt.php:250
+msgctxt "Money returned from cash sale"
+msgid "Change"
+msgstr "Cambio"
+
+#: includes/class-wc-pos-i18n.php:341
+msgctxt "order status, ie: open order in cart"
+msgid "Open"
+msgstr "Abrir"
+
+#: includes/class-wc-pos-i18n.php:340
+msgid "Email Receipt"
+msgstr "Destinatario del correo electrónico"
+
+#: includes/class-wc-pos-i18n.php:339
+msgid "Unpaid"
+msgstr "Sin pagar"
+
+#: includes/class-wc-pos-i18n.php:338
+msgid "Paid"
+msgstr "Pagado"
+
+#: includes/class-wc-pos-i18n.php:337
+msgid "To Pay"
+msgstr "Pendiente de pago"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:336 includes/class-wc-pos-i18n.php:376
+msgid "Shipping"
+msgstr "Envío"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:334 includes/views/print/tmpl-receipt.php:4
+msgid "Receipt"
+msgstr "Recibo"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:332 includes/class-wc-pos-params.php:238
+msgid "Products"
+msgstr "Productos"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:330 includes/class-wc-pos-params.php:244
+msgid "Orders"
+msgstr "Pedidos"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:328
+msgid "Order"
+msgstr "Pedido"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:325 includes/class-wc-pos-i18n.php:359
+msgid "Fee"
+msgstr "Cuota"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:323 includes/class-wc-pos-params.php:250
+msgid "Customers"
+msgstr "Clientes"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:321 includes/class-wc-pos-params.php:256
+msgid "Coupons"
+msgstr "Cupones"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-i18n.php:317
+msgid "Cart"
+msgstr "Carrito"
+
+#: includes/class-wc-pos-i18n.php:315
+msgctxt "system status: browser capabilities"
+msgid "Browser"
+msgstr "Navegador"
+
+#. translators: wordpress
+#: includes/class-wc-pos-i18n.php:248
+msgid "Translation updated successfully."
+msgstr "Traducciones actualizadas correctamente."
+
+#. translators: wordpress
+#: includes/class-wc-pos-i18n.php:202
+msgid "Downloading translation from <span class=\"code\">%s</span>&#8230;"
+msgstr "Descargando la traducción de <span class=\"code\">%s</span>&#8230;"
+
+#. translators: wordpress
+#: includes/class-wc-pos-i18n.php:193 includes/class-wc-pos-i18n.php:211
+#: includes/class-wc-pos-i18n.php:223 includes/class-wc-pos-i18n.php:232
+msgid "Translation update failed."
+msgstr "La actualización de la traducción ha fallado."
+
+#. translators: wordpress
+#: includes/class-wc-pos-i18n.php:178
+msgid "Updating translations for %1$s (%2$s)&#8230;"
+msgstr "Actualizando las traducciones de %1$s (%2$s)&#8230;"
+
+#. translators: woocommerce
+#: includes/class-wc-pos-api.php:134 includes/class-wc-pos-apiv2.php:180
+msgid "There was an error calling %s::%s"
+msgstr "Ha habido un error al llamar %s::%s"
+
+#: includes/class-wc-pos-api.php:49 includes/class-wc-pos-apiv2.php:38
+msgid "User not authorized to access WooCommerce POS"
+msgstr "El usuario no está autorizado a acceder a WooCommerce POS"
+
+#: includes/class-wc-pos-ajax.php:175 includes/class-wc-pos-server.php:46
+msgid "Invalid security nonce"
+msgstr "Código de seguridad (nonce) no válido"
+
+#: includes/class-wc-pos-ajax.php:121 includes/class-wc-pos-ajax.php:142
+msgid "There was an error sending the email"
+msgstr "Ha habido un error al enviar el correo electrónico"
+
+#: includes/class-wc-pos-ajax.php:113 includes/class-wc-pos-ajax.php:137
+msgid "Email sent"
+msgstr "Se ha enviado el correo electrónico"
+
+#: includes/class-wc-pos-activator.php:213
+msgid "<strong>WooCommerce POS</strong> requires PHP %s or higher. Read more information about <a href=\"%s\">how you can update</a>"
+msgstr "<strong>WooCommerce POS</strong> necesita PHP %s o superior. Lee más información sobre <a href=\"%s\">cómo puedes actualizarlo</a>"
+
+#: includes/class-wc-pos-activator.php:194
+msgid "<strong>WooCommerce POS</strong> requires <a href=\"%s\">WooCommerce %s or higher</a>. Please <a href=\"%s\">install and activate WooCommerce</a>"
+msgstr "<strong>WooCommerce POS</strong> necesita <a href=\"%s\">WooCommerce %s o superior</a>. Por favor, <a href=\"%s\">instala y activa WooCommerce</a>"
+
+#: includes/apiv2/class-wc-pos-orders.php:198
+#: includes/api/class-wc-pos-orders.php:540
+msgid "POS Transaction completed."
+msgstr "Transacción TPV completada."
+
+#: includes/apiv2/class-wc-pos-orders.php:450
+#: includes/api/class-wc-pos-orders.php:526
+msgid "<a href=\"%s\">Click here</a> if you are not redirected automatically. "
+msgstr "<a href=\"%s\">Pulsa aquí</a> si no se te redirige automáticamente. "
+
+#: includes/apiv2/class-wc-pos-orders.php:449
+#: includes/api/class-wc-pos-orders.php:525
+msgid "You are now being redirected offsite to complete the payment. "
+msgstr "Estás siendo redirigido fuera del sitio para completar el pago. "
+
+#: includes/apiv2/class-wc-pos-orders.php:205
+#: includes/apiv2/class-wc-pos-orders.php:424
+#: includes/api/class-wc-pos-orders.php:499
+msgid "There was an error processing the payment"
+msgstr "Ha habido un error al procesar el pago"
+
+#. translators: wordpress
+#: includes/admin/views/settings.php:13
+msgid "There has been an error loading the settings, please contact <a href=\"mailto:support@woopos.com.au\">support</a>"
+msgstr "Ha habido un error al cargar los ajustes. Por favor, contacta con <a href=\"mailto:support@woopos.com.au\">soporte</a>"
+
+#. translators: wordpress
+#. translators: woocommerce
+#: includes/admin/views/settings.php:12 includes/class-wc-pos-i18n.php:390
+msgid "Loading ..."
+msgstr "Cargando..."
+
+#: includes/admin/views/order-details.php:2
+msgid "Order type"
+msgstr "Tipo de pedido"
+
+#: includes/admin/settings/views/tools.php:62
+msgid "Clear All Local Data"
+msgstr "Limpiar todos los datos locales"
+
+#: includes/admin/settings/views/tools.php:59
+msgid "Clear Local Data"
+msgstr "Limpiar datos locales"
+
+#: includes/admin/settings/views/tools.php:54
+msgid "Local Data"
+msgstr "Datos locales"
+
+#: includes/admin/settings/views/tools.php:49
+msgid "Emulate RESTful HTTP methods to support legacy servers."
+msgstr "Simular métodos HTTP RESTful para funcionar con servidores antiguos."
+
+#. translators: wordpress
+#: includes/admin/settings/views/tools.php:47
+msgid "Disable"
+msgstr "Desactivar"
+
+#: includes/admin/settings/views/tools.php:43
+msgid "Legacy Server Support"
+msgstr "Compatibilidad con servidores antiguos"
+
+#: includes/admin/settings/views/tools.php:38
+msgid "<strong class=\"red\">Template path:</strong> %s"
+msgstr "<strong class=\"red\">Ruta a la plantilla:</strong> %s"
+
+#: includes/admin/settings/views/tools.php:36
+msgid "View Sample Receipt"
+msgstr "Ver recibo de ejemplo"
+
+#: includes/admin/settings/views/tools.php:33
+msgid "Receipt Template"
+msgstr "Plantilla del recibo"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/tools.php:27
+msgid "<strong class=\"red\">Note:</strong> This option will force the translation upgrade for your language if a translation is available."
+msgstr "<strong class=\"red\">Aviso:</strong> Esta opción forzará la actualización de las traducciones si existe una traducción en tu idioma."
+
+#. translators: woocommerce
+#: includes/admin/settings/views/tools.php:22
+msgid "Force Translation Upgrade"
+msgstr "Forzar la actualización de traducciones"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/tools.php:13
+#: includes/admin/settings/views/tools.php:18
+msgid "Translation Upgrade"
+msgstr "Actualización de las traducciones"
+
+#: includes/admin/settings/views/hotkeys.php:5
+msgid "HotKeys can also be used as a prefix for your barcode scanner or card reader."
+msgstr "Las teclas rápidas también se pueden usar como prefijo de tu escáner de códigos de barras o lector de tarjetas."
+
+#: includes/admin/settings/views/hotkeys.php:4
+msgid "You can trigger certain events in WooCommerce POS using keyboard shortcuts (HotKeys)."
+msgstr "Puedes activar algunas acciones en WooCommerce POS usando los atajos de teclado (teclas rápidas)."
+
+#: includes/admin/settings/views/hotkeys.php:1
+msgid "Keyboard Shortcuts"
+msgstr "Atajos de teclado"
+
+#: includes/admin/settings/views/general.php:47
+msgid "Configure discount keys for quick numpad entry"
+msgstr "Configurar teclas de descuento para introducción rápida con el teclado numérico"
+
+#: includes/admin/settings/views/general.php:46
+msgid "Discount Quick Keys"
+msgstr "Teclas rápidas de descuento"
+
+#: includes/admin/settings/views/general.php:40
+msgctxt "Default customer setting"
+msgid "Use cashier account"
+msgstr "Usar la cuenta del cajero"
+
+#: includes/admin/settings/views/general.php:35
+msgid "The default customer for POS orders, eg: Guest or create a new customer."
+msgstr "Cliente por defecto en los pedidos con TPV. Por ejemplo: invitado o crear un cliente nuevo."
+
+#: includes/admin/settings/views/general.php:34
+msgid "Default POS Customer"
+msgstr "Cliente TPV por defecto"
+
+#. translators: wordpress
+#: includes/admin/settings/views/general.php:28
+#: includes/admin/settings/views/tools.php:47
+msgid "Enable"
+msgstr "Activar"
+
+#: includes/admin/settings/views/general.php:24
+msgid "Allows items to have decimal values in the quantity field, eg: 0.25"
+msgstr "Permitir que los artículos tengan valores decimales en el campo de cantidad (por ejemplo: 0,25)"
+
+#: includes/admin/settings/views/general.php:23
+msgid "Allow Decimal Quantity"
+msgstr "Permitir cantidades con decimales"
+
+#: includes/admin/settings/views/general.php:17
+msgid "Enable <a href=\"%s\">POS Only products</a>"
+msgstr "Activar <a href=\"%s\">productos solo de TPV</a>"
+
+#: includes/admin/settings/views/general.php:13
+msgid "Product Visibility"
+msgstr "Visibilidad del producto"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/general.php:7
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: includes/admin/settings/views/checkout.php:143
+msgctxt "POS checkout settings"
+msgid "Show payment gateway icon."
+msgstr "Mostrar icono de pasarela de pago."
+
+#: includes/admin/settings/views/checkout.php:139
+msgid "Icon"
+msgstr "Icono"
+
+#. translators: wordpress
+#: includes/admin/settings/views/checkout.php:133
+msgid "Payment method description that will be shown in the POS."
+msgstr "Descripción del método de pago que aparecerá en el TPV."
+
+#. translators: wordpress
+#: includes/admin/settings/views/checkout.php:132
+msgid "Description"
+msgstr "Descripción"
+
+#. translators: wordpress
+#: includes/admin/settings/views/checkout.php:126
+msgid "Payment method title."
+msgstr "Título del método de pago."
+
+#. translators: wordpress
+#: includes/admin/settings/views/checkout.php:125
+msgid "Title"
+msgstr "Título"
+
+#: includes/admin/settings/views/checkout.php:75
+msgid "POS Settings"
+msgstr "Ajustes del TPV"
+
+#: includes/admin/settings/views/checkout.php:74
+msgid "POS Status"
+msgstr "Estado del TPV"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/checkout.php:73
+msgid "Online Status"
+msgstr "Estado online"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/checkout.php:72
+msgid "Gateway ID"
+msgstr "ID de pasarela"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/checkout.php:71
+msgid "Gateway"
+msgstr "Pasarela"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/checkout.php:70
+msgid "Default"
+msgstr "Por defecto"
+
+#: includes/admin/settings/views/checkout.php:65
+msgid "Gateway Display"
+msgstr "Opciones de pasarela"
+
+#: includes/admin/settings/views/checkout.php:59
+msgid "It is your responsibility to ensure the security of your customer's information. Transmitting credit card or other sensitive information should only be done using a secure connnection."
+msgstr "Asegurar la información de tus clientes es tu responsabilidad. La transmisión de tarjetas de crédito o de información de carácter personal debería realizarse únicamente mediante conexiones seguras."
+
+#: includes/admin/settings/views/checkout.php:55
+msgid "Payment Gateways enabled here will be available at the Point of Sale. Payment Gateways enabled on the settings page will be available in your Online Store. "
+msgstr "Las pasarelas de pago que se activen aquí estarán disponibles en el TPV. Las pasarelas que se activen en la página de ajustes estarán disponibles en la tienda online. "
+
+#: includes/admin/settings/views/checkout.php:54
+msgid "Installed gateways are listed below. Drag and drop gateways to control their display order at the Point of Sale. "
+msgstr "Las pasarelas instaladas aparecen debajo. Arrástralas y suéltalas para controlar el orden en que aparecerán en el TPV. "
+
+#. translators: woocommerce
+#: includes/admin/settings/views/checkout.php:51
+msgid "Payment Gateways"
+msgstr "Pasarelas de pago"
+
+#: includes/admin/settings/views/checkout.php:45
+msgid "Automatically print receipt after checkout"
+msgstr "Imprimir el recibo automáticamente al finalizar la compra"
+
+#: includes/admin/settings/views/checkout.php:41
+msgid "Receipt Printing"
+msgstr "Impresión del recibo"
+
+#: includes/admin/settings/views/checkout.php:35
+msgid "Enable customer emails"
+msgstr "Activar correos electrónicos de clientes"
+
+#: includes/admin/settings/views/checkout.php:32
+msgid "Enable admin emails"
+msgstr "Activar correos electrónicos de administradores"
+
+#: includes/admin/settings/views/checkout.php:28
+msgid "Send WooCommerce notification emails for POS orders"
+msgstr "Enviar correos electrónicos de aviso de WooCommerce para los pedidos del TPV"
+
+#: includes/admin/settings/views/checkout.php:27
+msgid "Order Emails"
+msgstr "Correos electrónicos de pedido"
+
+#: includes/admin/settings/views/checkout.php:14
+msgid "Change the default order status for POS sales"
+msgstr "Cambiar el estado por defecto de las ventas realizadas por TPV"
+
+#: includes/admin/settings/views/checkout.php:13
+msgid "Completed Order Status"
+msgstr "Estado de pedido completado"
+
+#. translators: woocommerce
+#: includes/admin/settings/views/checkout.php:7
+msgid "Checkout Process"
+msgstr "Proceso de pago"
+
+#: includes/admin/settings/views/hotkeys.php:6
+#: includes/admin/settings/views/access.php:12
+#: includes/admin/settings/views/checkout.php:60
+msgid "For more information please visit <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+msgstr "Para más información visita <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+
+#: includes/admin/settings/views/access.php:11
+msgid "It is recommended that you <strong>do not change</strong> the default settings unless you are fully aware of the consequences."
+msgstr "Se recomienda <strong>no cambiar</strong> los ajustes por defecto a menos que conozcas perfectamente las consecuencias."
+
+#: includes/admin/settings/views/access.php:10
+msgid "By default, access to the POS is limited to Administrator and Shop Manager roles."
+msgstr "Por defecto, el acceso al TPV está limitado a los perfiles de administrador y gestor de tienda."
+
+#: includes/admin/settings/views/access.php:7
+msgid "Grant POS Access"
+msgstr "Dar acceso al TPV"
+
+#. translators: woocommerce
+#: includes/admin/settings/class-wc-pos-tools.php:22
+#: includes/admin/settings/views/tools.php:7
+msgid "Tools"
+msgstr "Herramientas"
+
+#. translators: woocommerce
+#: includes/admin/settings/class-wc-pos-status.php:22
+#: includes/admin/settings/views/status.php:7
+#: includes/class-wc-pos-i18n.php:345
+msgid "System Status"
+msgstr "Estado del sistema"
+
+#: includes/admin/settings/class-wc-pos-hotkeys.php:46
+msgid "Sync with server"
+msgstr "Sincronizar con el servidor"
+
+#. translators: woocommerce
+#: includes/admin/settings/class-wc-pos-hotkeys.php:45
+msgid "New order"
+msgstr "Nuevo pedido"
+
+#. translators: woocommerce
+#: includes/admin/settings/class-wc-pos-hotkeys.php:44
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/admin/settings/class-wc-pos-hotkeys.php:43
+msgid "Barcode search"
+msgstr "Buscar código de barras"
+
+#: includes/admin/settings/class-wc-pos-hotkeys.php:42
+msgid "Help screen"
+msgstr "Pantalla de ayuda"
+
+#: includes/admin/settings/class-wc-pos-hotkeys.php:22
+#: includes/class-wc-pos-i18n.php:326
+msgctxt "keyboard shortcuts"
+msgid "HotKeys"
+msgstr "Teclas rápidas"
+
+#. translators: woocommerce
+#: includes/admin/settings/class-wc-pos-general.php:22
+msgid "General"
+msgstr "General"
+
+#. translators: woocommerce
+#: includes/admin/settings/class-wc-pos-checkout.php:22
+#: includes/class-wc-pos-i18n.php:319 includes/class-wc-pos-i18n.php:349
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: includes/admin/settings/class-wc-pos-access.php:25
+msgid "POS Access"
+msgstr "Acceso del TPV"
+
+#. translators: wordpress
+#: includes/admin/class-wc-pos-plugins.php:37
+msgid "Important:"
+msgstr "Importante:"
+
+#. translators: wordpress
+#. translators: woocommerce
+#: includes/admin/class-wc-pos-plugins.php:26
+#: includes/admin/class-wc-pos-settings.php:35
+#: includes/admin/class-wc-pos-settings.php:37
+#: includes/admin/settings/views/checkout.php:76
+#: includes/admin/settings/views/checkout.php:106
+#: includes/admin/settings/views/checkout.php:111
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin/class-wc-pos-permalink.php:30
+msgctxt "Permalink setting, eg: /pos"
+msgid "POS base"
+msgstr "Enlace del TPV"
+
+#: includes/admin/class-wc-pos-orders.php:99
+#: includes/admin/views/order-details.php:4
+msgid "Online"
+msgstr "Online"
+
+#: includes/admin/class-wc-pos-menu.php:53
+#: includes/admin/settings/views/checkout.php:101
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: includes/admin/class-wc-pos-menu.php:44
+#: includes/admin/class-wc-pos-menu.php:45
+msgid "View POS"
+msgstr "Ver TPV"
+
+#. translators: woocommerce
+#: includes/admin/class-wc-pos-gateways.php:49
+#: includes/admin/settings/views/checkout.php:94
+msgid "Enabled"
+msgstr "Activo"
+
+#: includes/admin/class-wc-pos-gateways.php:32
+#: includes/admin/class-wc-pos-menu.php:34
+#: includes/admin/class-wc-pos-menu.php:35
+#: includes/admin/class-wc-pos-orders.php:98
+#: includes/admin/views/order-details.php:5
+#: includes/class-wc-pos-params.php:232
+msgid "POS"
+msgstr "TPV"
+
+#: includes/admin/class-wc-pos-gateways.php:31
+msgid "Online Store"
+msgstr "Tienda online"
